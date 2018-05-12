@@ -1,0 +1,31 @@
+_repo: The-Battle-of-Allatoona-October-5th-1864_32247
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ludlow, William
+    birthdate: 1843
+    deathdate: 1901
+    gutenberg_agent_id: '35744'
+    url: http://www.gutenberg.org/2009/agents/35744
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2010-05-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32247'
+  lccn: 05026478
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: 'Michigan Commandery War Paper #17'
+subjects:
+- !lcsh 'Allatoona Pass, Battle of, Ga., 1864'
+- !lcc 'E456'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Campaigns'
+- !lcsh 'Georgia -- History -- Civil War, 1861-1865'
+title: The Battle of Allatoona, October 5th, 1864
+url: http://www.gutenberg.org/ebooks/32247
