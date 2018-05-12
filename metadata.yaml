@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '35744'
     url: http://www.gutenberg.org/2009/agents/35744
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32247#The-Battle-of-Allatoona-October-5th-1864
 gutenberg_bookshelf: US Civil War
 gutenberg_issued: '2010-05-04'
 gutenberg_type: Text
